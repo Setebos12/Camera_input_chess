@@ -1,6 +1,6 @@
 # Camera_input_chess
 
-##Introduction
+# Introduction
 
 "ChessCam" is  application that allows users to play chess using a camera. The program enables real-time interaction with a virtual chessboard by capturing moves through the camera and transmitting them to a Lichess  for online gameplay.
 Features
@@ -13,7 +13,7 @@ Features
 
     User-Friendly Interface: Offers intuitive user interaction, presenting move recognition results and providing feedback.
 
-#Requirements
+# Requirements
 Hardware:
 
     Computer with a webcam.
