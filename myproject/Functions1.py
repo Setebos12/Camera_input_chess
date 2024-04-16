@@ -14,7 +14,7 @@ def crop_image(im):
 
 
 def resize_and_crop1(image_array, size=(224, 224)):
-    # Tworzenie obiektu Image z tablicy NumPy
+    
     image = Image.fromarray(image_array)
     width, height = image.size
     min_dim = min(width, height)
