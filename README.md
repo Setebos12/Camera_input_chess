@@ -24,7 +24,7 @@ Python environment.
 
 Required libraries.
 
-Installed models for chess piece recognition (Teachable machine).
+Models for chess piece recognition (I used Teachable machine).
 
 
 
