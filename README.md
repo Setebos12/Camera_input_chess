@@ -31,4 +31,4 @@ Installed models for chess piece recognition (Teachable machine).
 # Example Usage
 
 
-https://github.com/Setebos12/Camera_input_chess/assets/140965218/c3e76425-6b4a-4734-bd46-256b796f8be8
+[https://github.com/Setebos12/Camera_input_chess/assets/140965218/c3e76425-6b4a-4734-bd46-256b796f8be8](https://github.com/Setebos12/Camera_input_chess/assets/140965218/05f7badd-80e6-4676-9599-d9707ffde942)
