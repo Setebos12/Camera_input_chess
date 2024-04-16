@@ -1,4 +1,4 @@
-# Camera_input_chess
+## Camera_input_chess
 
 # Introduction
 
@@ -20,21 +20,13 @@ Lichess account with Personal API access tokens (Settings -> API access tokens -
 Software:
 
 Python environment.
+
 Required libraries.
-Installed models for chess piece recognition.
+
+Installed models for chess piece recognition (Teachable machine).
 
 
-Implementation
 
-ChessCam is implemented in Python, leveraging popular libraries such as OpenCV, TensorFlow, and PyTorch for image processing and machine learning tasks. The program seamlessly integrates with a Lichess account to provide a smooth multiplayer experience.
-Example Usage
+# Example Usage
 
-    Launch the ChessCam program on your computer.
-    Position the camera to capture the chessboard or any surface where the game is played.
-    Make a move on the chessboard.
-    The program will capture and recognize the move, transmitting it to your Lichess account for online gameplay.
-    Engage in multiplayer chess gameplay with other users on Lichess.
-    Place the physical chessboard in front of the camera.
-    Make a chess move by moving a piece on the chessboard.
-    The program will automatically register your move and display it on the screen.
-    Continue the game by making subsequent moves.
+
