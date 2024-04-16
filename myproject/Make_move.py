@@ -54,7 +54,7 @@ class get_ans(tk.Tk):
             self.clear_frames()
             self.update()
             if choice < 0 or choice > 5:
-                print("Niepoprawny wybór figury.")
+                
                 continue
             selected_piece_type = []
             piece_types = [chess.KING, chess.QUEEN, chess.BISHOP, chess.KNIGHT,chess.ROOK ,chess.PAWN]
