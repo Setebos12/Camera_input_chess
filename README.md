@@ -14,6 +14,7 @@ Online gameplay: It transmits recognized moves to a Lichess account.
 
 
 Computer with a webcam.
+
 Lichess account with Personal API access tokens (Settings -> API access tokens -> External play -> Play games with board API)
 
 
