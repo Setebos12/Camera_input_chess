@@ -7,7 +7,7 @@
 
 Interface for capturing chess moves using trained classes: program utilizes a trained model to identify chess moves.
 
-Online gameplay: It transmits recognized moves to a Lichess account.
+Online gameplay: It transmits recognized moves to a Lichess game.
 
 
 # Requirements
